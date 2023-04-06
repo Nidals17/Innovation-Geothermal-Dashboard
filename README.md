@@ -25,7 +25,7 @@ These features provide a comprehensive understanding of the data related to geot
 
 Requirements : 
 
-library(shiny), main package to create interactive web applications in R.
+library(shiny), main package to create interactive web applications in R. \n
 library(shinydashboard), used to design a dashboard interface for the web application.
 library(dplyr), The dplyr library is included for data manipulation and cleaning purposes.
 library(ggplot2), utilized for data visualization and generating plots.
