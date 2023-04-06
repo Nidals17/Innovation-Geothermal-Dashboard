@@ -1,6 +1,6 @@
 # Innovation-Geothermal-Dashboard 
 
-Lien Dashboard RShiny : https://nidals17.shinyapps.io/Dash/?_ga=2.25631997.1550294498.1675550866-1755815181.1674844831
+Link Dashboard RShiny : https://nidals17.shinyapps.io/Dash/?_ga=2.25631997.1550294498.1675550866-1755815181.1674844831
  
 ## Description :
 
