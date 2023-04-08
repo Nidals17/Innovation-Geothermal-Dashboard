@@ -23,11 +23,12 @@ You can choose the technical terms you are interested in and track their appeara
 Additionally, you can view descriptive statistics, such as the ratio of usage, top countries in scientific paper production, and even visualize a network of relationships between themes. 
 These features provide a comprehensive understanding of the data related to geothermal energy, making it easier to identify trends and patterns.
 
-Requirements : 
+## Requirements : 
 
-library(shiny), main package to create interactive web applications in R. \n
-library(shinydashboard), used to design a dashboard interface for the web application.
-library(dplyr), The dplyr library is included for data manipulation and cleaning purposes.
-library(ggplot2), utilized for data visualization and generating plots.
-library(plotly), provides interactive and animated data visualizations.
-library(igraph), used for creating and analyzing network graphs.
+* library(shiny), main package to create interactive web applications in R. 
+* library(shinydashboard), used to design a dashboard interface for the web application.
+* library(dplyr), The dplyr library is included for data manipulation and cleaning purposes.
+* library(ggplot2), utilized for data visualization and generating plots.
+* library(plotly), provides interactive and animated data visualizations.
+* library(igraph), used for creating and analyzing network graphs.
+
