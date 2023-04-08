@@ -25,10 +25,10 @@ These features provide a comprehensive understanding of the data related to geot
 
 ## Requirements : 
 
-* library(shiny), main package to create interactive web applications in R. 
-* library(shinydashboard), used to design a dashboard interface for the web application.
-* library(dplyr), The dplyr library is included for data manipulation and cleaning purposes.
-* library(ggplot2), utilized for data visualization and generating plots.
-* library(plotly), provides interactive and animated data visualizations.
-* library(igraph), used for creating and analyzing network graphs.
+* Shiny , main package to create interactive web applications in R. 
+* Shinydashboard , used to design a dashboard interface for the web application.
+* Dplyr , The dplyr library is included for data manipulation and cleaning purposes.
+* ggplot2 , utilized for data visualization and generating plots.
+* Plotly , provides interactive and animated data visualizations.
+* Igraph , used for creating and analyzing network graphs.
 
